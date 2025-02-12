@@ -22,7 +22,8 @@ Som estudiants de les matèries de Robòtica i Programació de 1r de batxillerat
 
 ### El satèl·lit:
 1. La **[missió primària](https://youtu.be/xKcdmHoEnjM?si=6TwLKGnmY4MSLZvh)**
-   Encara que a la part de la creativitat i innovació s'hi poden canviar gaires coses a la missió primària, aquest any hem volgut provar els sistemes de comunicació enviant les dades dels sensors corresponents a la missió primària aixecant el satlèl·lit amb un dron DJI. Per a comprovar posteriorment que l'enviament de dades hagués sigut satisfactori.
+   <br>
+   Encara que a la part de la creativitat i innovació s'hi poden canviar gaires coses a la missió primària, aquest any hem volgut provar els sistemes de comunicació enviant les dades dels sensors corresponents a la missió primària aixecant el satlèl·lit amb un dron DJI. Per a posteriorment comprovar que l'enviament de dades hagués sigut satisfactori.
 
 <footer>
 
