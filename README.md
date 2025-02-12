@@ -51,5 +51,5 @@ Som estudiants de les matèries de Robòtica i Programació de 1r de batxillerat
 - Lora EBYTE LLCC68 E220 (15,98 €)
 - Antena Lora32u4 3dBi (2,2 €)
 - Antena 868 MHz 7 dBi (9,99 €)
-- Mà d’obra (sense cost) (0 €)
-- Amortització maquinària (sense cost, dotació aula FAIG) (0 €)
+- Mà d’obra (sense cost)
+- Amortització maquinària (sense cost, dotació aula FAIG)
