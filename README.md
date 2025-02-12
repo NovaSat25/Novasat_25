@@ -21,15 +21,8 @@
 Som estudiants de les matèries de Robòtica i Programació de 1r de batxillerat de l'[Institut Bernat el Ferrer](https://www.bernatelferrer.cat/). Aqui podreu veure el nostre projecte al concurs CanSat 2025! 
 
 ### El satèl·lit:
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+1. La **[missió primària](https://youtu.be/xKcdmHoEnjM?si=6TwLKGnmY4MSLZvh)**
+   Encara que a la part de la creativitat i innovació s'hi poden canviar gaires coses a la missió primària, aquest any hem volgut provar els sistemes de comunicació enviant les dades dels sensors corresponents a la missió primària aixecant el satlèl·lit amb un dron DJI. Per a comprovar posteriorment que l'enviament de dades hagués sigut satisfactori.
 
 <footer>
 
