@@ -35,7 +35,7 @@ Som estudiants de les matèries de Robòtica i Programació de 1r de batxillerat
 
 ### Hardware:
 
-- Placa ESP32 (7 €)
+- Placa ESP32 (7 €) **[Amazon](https://www.amazon.es/diymore-Piezas-Desarrollo-ESP-WROOM-32-Bluetooth/dp/B0D9LCM3Z8/ref=sr_1_7?adgrpid=1296324644885201&dib=eyJ2IjoiMSJ9.F9bQ5Rj5WvLueOdrlSjZZKsnsqmPKRIMQojy-SVkw-AJVWkoAmU3W5KJvfai3Yhkt-VRm6zwcjm5XY9RMPwkNf6spYbaW4ylCbRnexDLnmXwS9QgpDDXg60-2TfSEbP-j9UUkURPUPKhL9S536lZxJXCfP88Gj7oFTOBOT_jSNgA7ikb2BViSLw9lDhe5S2rIric1Bivoy04QCZ46uet1FEfGB7nrwFgJwYQUs9TJQNfsR-kChqj7k-_z04td421aWMwrOQMUN47QJw8h7IlpCpFVUig8CriSc9JAGP93jFK9P_19PrNjBBje3t79rwv3AVEwux26ynZpVkvku3GvdvFzpu-P9k-QQWpQPp10jo2VOb3FRjPjS30LPcBYchBQ4oew4SGg67UlEDyup82hR6R-BdwZRoaiE6vhARi1d-L44uJo5AGEXmOTBFkda3y.c4umvC3dS4HjiJN7mYddgBfHdMucKJgaBN27tz3PSTM&dib_tag=se&hvadid=81020379193621&hvbmt=be&hvdev=c&hvlocphy=3226&hvnetw=o&hvqmt=e&hvtargid=kwd-81020528705347%3Aloc-170&hydadcr=19377_1840446&keywords=placa%2Besp32&mcid=84b67c2bb56930de8b795e56534d1aef&msclkid=83556a1dd414122400a80db12d7eb330&qid=1739389433&sr=8-7&th=1)**
 - Lector targeta SD SPI (1,9 €)
 - Tarja microSD 16Gb (3,8 €)
 - Tarja USB a Serial FTDI FT232RL (3,9 €)
