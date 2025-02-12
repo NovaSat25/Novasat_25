@@ -33,7 +33,7 @@ Som estudiants de les matèries de Robòtica i Programació de 1r de batxillerat
 <br> Més informació sobre el projecte a la pàgina del **[Campus Moodle de l'institut](https://ja.cat/novasat25)**
 
 
-### Hardware
+### Hardware:
 
 - Placa ESP32 (7 €)
 - Lector targeta SD SPI (1,9 €)
