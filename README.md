@@ -7,27 +7,20 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Benvinguts al GitHub de NovaSat25!
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+
 
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
 
-## Step 1: Enable GitHub Pages
+## Qui som?
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
-### :keyboard: Activity: Enable GitHub Pages
+Som estudiants de les matèries de Robòtica i Programació de 1r de batxillerat de l'[Institut Bernat el Ferrer](https://www.bernatelferrer.cat/). Aqui podreu veure el nostre projecte al concurs CanSat 2025! 
+
+### El satèl·lit:
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Under your repository name, click **Settings**.
