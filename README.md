@@ -31,3 +31,25 @@ Som estudiants de les matèries de Robòtica i Programació de 1r de batxillerat
 <br> Mireu els nostres vídeos promocionant el projecte a **[TikTok](https://www.tiktok.com/@novasat2025)**
 <br> Mireu els vídeos més llargs del nostre procés al nostre **[Youtube](www.youtube.com/@NovaSat_25)**
 <br> Més informació sobre el projecte a la pàgina del **[Campus Moodle de l'institut](https://ja.cat/novasat25)**
+
+
+### Hardware
+
+- Placa ESP32 (7 €)
+- Lector targeta SD SPI (1,9 €)
+- Tarja microSD 16Gb (3,8 €)
+- Tarja USB a Serial FTDI FT232RL (3,9 €)
+- Sensor BME280 (8,54 €)
+- Sensor CJMCU-4541 (24,99 €)
+- Sensor CCS811 (11,31 €)
+- Sensor GPS GY-GPS6MV2 NEO-6M (9,89 €)
+- Bateria Lipo 3.7 V 3000mAh (8 €)
+- Interruptor general (0,2 €)
+- Cables dupont 10 cm (20 unitats) femella-femella (1,7 €)
+- Tela Impermeable Polièster (100 cm x 150 cm) Taronja (7 €)
+- PLA (bobina) 1 kg (12 €)
+- Lora EBYTE LLCC68 E220 (15,98 €)
+- Antena Lora32u4 3dBi (2,2 €)
+- Antena 868 MHz 7 dBi (9,99 €)
+- Mà d’obra (sense cost) (0 €)
+- Amortització maquinària (sense cost, dotació aula FAIG) (0 €)
